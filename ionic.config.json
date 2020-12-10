@@ -1,0 +1,7 @@
+{
+  "name": "loger",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
